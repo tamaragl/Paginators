@@ -1,0 +1,4 @@
+Paginators
+==========
+
+Paginators examples
