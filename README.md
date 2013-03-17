@@ -11,3 +11,5 @@ Paginators examples
 		$paginator->setItemsPerPage( ITEMS_PER_PAGE );
 		$paginator->setCurrentPage( $this->current_page );
 		$paginator_html = $paginator->build();
+		
+//NOTA: Hay que setear la URL Base de los botones del paginador
